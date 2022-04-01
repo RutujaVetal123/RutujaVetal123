@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RutujaVetal123
-- 👀 I’m interested in Python and Java
+<!---- 👀 I’m interested in Python and Java--->
 - 📫 How to reach me ...
 Gmail-rutujavetal@gmail.com
 
