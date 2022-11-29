@@ -4,8 +4,8 @@
 Gmail-rutujavetal@gmail.com
 
 
-Completed My Case Study : Shopping Cart System
-Backend : https://github.com/RutujaVetal123/Shopping-Cart-API
+Completed My Case Study : Shopping Cart System  
+Backend : https://github.com/RutujaVetal123/Shopping-Cart-API  
 Frontend : https://github.com/RutujaVetal123/Shopping-Cart-Frontend
 <!---
 RutujaVetal123/RutujaVetal123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
